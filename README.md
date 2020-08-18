@@ -1,5 +1,5 @@
 ## Rep the Set: Neural Networks for Learning Set Representations
-Code for the paper [Rep the Set: Neural Networks for Learning Set Representations](https://arxiv.org/pdf/1904.01962.pdf).
+Code for the paper [Rep the Set: Neural Networks for Learning Set Representations](http://proceedings.mlr.press/v108/skianis20a/skianis20a.pdf).
 
 ### Requirements
 Code is written in Python 3.6 and requires:
@@ -25,11 +25,12 @@ python approxrepset/main.py
 ### Cite
 Please cite our paper if you use this code:
 ```
-@article{skianis2019rep,
+@inproceedings{skianis2020rep,
   title={Rep the Set: Neural Networks for Learning Set Representations},
   author={Skianis, Konstantinos and Nikolentzos, Giannis and Limnios, Stratis and Vazirgiannis, Michalis},
-  journal={arXiv preprint arXiv:1904.01962},
-  year={2019}
+  booktitle={Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics},
+  pages={1410--1420},
+  year={2020}
 }
 ```
 
